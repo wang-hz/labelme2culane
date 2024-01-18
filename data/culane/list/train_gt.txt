@@ -1,0 +1,1 @@
+/data/000001.png /segment/000001.png 1 1 0 0
